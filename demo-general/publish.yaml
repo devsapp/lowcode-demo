@@ -2,7 +2,7 @@ Type: Application
 Name: start-lowcode-engine-general
 Provider:
   - 阿里云
-Version: 0.0.1
+Version: 0.0.2
 Description: 部署 低代码引擎核心Demo，此Demo尽可能将引擎常用能力展示出来。
 HomePage: https://github.com/devsapp/lowcode-demo
 Tags:
